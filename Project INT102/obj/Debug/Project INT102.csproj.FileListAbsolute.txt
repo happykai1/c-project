@@ -1,0 +1,21 @@
+D:\Work\Program lab\Visual studio\Project INT102\Project INT102\bin\Debug\Project INT102.exe.config
+D:\Work\Program lab\Visual studio\Project INT102\Project INT102\obj\Debug\Project INT102.csprojResolveAssemblyReference.cache
+D:\Work\Program lab\Visual studio\Project INT102\Project INT102\obj\Debug\Project_INT102.Form1.resources
+D:\Work\Program lab\Visual studio\Project INT102\Project INT102\obj\Debug\Project_INT102.Properties.Resources.resources
+D:\Work\Program lab\Visual studio\Project INT102\Project INT102\obj\Debug\Project INT102.csproj.GenerateResource.Cache
+D:\Work\Program lab\Visual studio\Project INT102\Project INT102\bin\Debug\Project INT102.exe
+D:\Work\Program lab\Visual studio\Project INT102\Project INT102\bin\Debug\Project INT102.pdb
+D:\Work\Program lab\Visual studio\Project INT102\Project INT102\obj\Debug\Project INT102.exe
+D:\Work\Program lab\Visual studio\Project INT102\Project INT102\obj\Debug\Project INT102.pdb
+D:\Work\Program lab\Visual studio\Project INT102\Project INT102\obj\Debug\Project_INT102.Form2.resources
+D:\Work\Program lab\Visual studio\Project INT102\Project INT102\obj\Debug\Project_INT102.Form4.resources
+C:\Users\Windows8.1\Desktop\Project\Project INT102\Project INT102\bin\Debug\Project INT102.exe.config
+C:\Users\Windows8.1\Desktop\Project\Project INT102\Project INT102\obj\Debug\Project INT102.exe
+C:\Users\Windows8.1\Desktop\Project\Project INT102\Project INT102\obj\Debug\Project INT102.pdb
+C:\Users\Windows8.1\Desktop\Project\Project INT102\Project INT102\bin\Debug\Project INT102.exe
+C:\Users\Windows8.1\Desktop\Project\Project INT102\Project INT102\bin\Debug\Project INT102.pdb
+C:\Users\Windows8.1\Desktop\Project\Project INT102\Project INT102\obj\Debug\Project INT102.csprojResolveAssemblyReference.cache
+C:\Users\Windows8.1\Desktop\Project\Project INT102\Project INT102\obj\Debug\Project_INT102.Form1.resources
+C:\Users\Windows8.1\Desktop\Project\Project INT102\Project INT102\obj\Debug\Project_INT102.Form2.resources
+C:\Users\Windows8.1\Desktop\Project\Project INT102\Project INT102\obj\Debug\Project_INT102.Properties.Resources.resources
+C:\Users\Windows8.1\Desktop\Project\Project INT102\Project INT102\obj\Debug\Project INT102.csproj.GenerateResource.Cache
